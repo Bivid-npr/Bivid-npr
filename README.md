@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hey 👋, I'm Bibidh,</h1>
 <h3 align="center">An IT enthusiast!</h3>
-<img align="right" vlign="bottom" alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/9a/e2/c69ae2e4f239da4584b548b6dfe226ba.gif">
+<img align="right"  alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/9a/e2/c69ae2e4f239da4584b548b6dfe226ba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivid-npr&label=Profile%20views&color=0e75b6&style=flat" alt="bivid-npr" /> </p>
 
