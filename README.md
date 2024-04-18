@@ -20,5 +20,5 @@
 <br><br><br><br><br><hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bivid-npr&show_icons=true&locale=en" alt="bivid-npr" /></p>
-<br><br><br><br><br><hr>
+<br><br><hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bivid-npr&" alt="bivid-npr" /></p>
