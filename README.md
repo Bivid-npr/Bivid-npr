@@ -17,4 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bivid-npr&show_icons=true&locale=en&layout=compact" alt="bivid-npr" /></p>
 <br><br><br><br><br><hr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bivid-npr&show_icons=true&locale=en" alt="bivid-npr" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bivid-npr&" alt="bivid-npr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bivid-npr&show_icons=true&locale=en" alt="bivid-npr" width =90px /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bivid-npr&" alt="bivid-npr" /></p>
