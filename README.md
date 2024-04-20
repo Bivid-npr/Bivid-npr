@@ -1,10 +1,3 @@
-<table style="margin: 0 auto;">
-  <tr>
-    <td>
-      <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/9a/e2/c69ae2e4f239da4584b548b6dfe226ba.gif">
-    </td>
-  </tr>
-</table>
 
 
 <h1 align="center">Hey 👋, I'm Bibidh,</h1>
