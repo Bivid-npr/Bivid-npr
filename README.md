@@ -5,7 +5,7 @@
 
 <p>I often have a complex thought process of my own when doing my work, but I like to keep things simple between other people unless they are willing to take part in the journey of discovery and understanding.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivid-npr&label=Profile%20views&color=0e75b6&style=flat" alt="bivid-npr" /> </p>
-
+<br><br><br>
 <h2>Connect with Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/bibidh-nhuchhe-pradhan-b6b936305" target="_blank">LinkedIn</a><br>
