@@ -13,4 +13,4 @@
   <a href="mailto:bivid005@gmail.com" target="_blank">Email</a>
 </p>
 
-<p>Thank you for visiting!😊✨</p>
+<p align="center">Thank you for visiting!😊✨</p>
