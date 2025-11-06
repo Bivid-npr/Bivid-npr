@@ -8,9 +8,9 @@
 
 <h2>Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">LinkedIn</a><br>
+  <a href="https://www.linkedin.com/in/bibidh-nhuchhe-pradhan-b6b936305" target="_blank">LinkedIn</a><br>
   <a href="https://github.com/bivid-npr" target="_blank">GitHub</a><br>
-  <a href="mailto:your.email@example.com" target="_blank">Email</a>
+  <a href="mailto:bivid005@gmail.com" target="_blank">Email</a>
 </p>
 
 <p>Thank you for visiting!😊✨</p>
