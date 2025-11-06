@@ -2,6 +2,7 @@
 
 <h1 align="center">Hey 👋, I'm Bibidh,</h1>
 <h3>An IT enthusiast!</h3>
+<p>I love exploring, discovering, and experimenting with new things, especially in the field of science.</p>
 <img align="right"  alt="Coding" width="300" src="https://i.pinimg.com/originals/c6/9a/e2/c69ae2e4f239da4584b548b6dfe226ba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivid-npr&label=Profile%20views&color=0e75b6&style=flat" alt="bivid-npr" /> </p>
