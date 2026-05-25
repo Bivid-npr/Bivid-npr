@@ -14,5 +14,4 @@ Final-year BSc AI student who enjoys building things at the intersection of mach
 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/bibidh-nhuchhe-pradhan-b6b936305)
-- [GitHub](https://github.com/bivid-npr)
 - [bivid005@gmail.com](mailto:bivid005@gmail.com)
